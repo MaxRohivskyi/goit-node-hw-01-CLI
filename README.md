@@ -4,7 +4,7 @@ node index.js --action="list" \*\*https://ibb.co/5TH3z2w
 
 # Отримуємо контакт по id
 
-node index.js --action="get" --id=5 \*\*https://ibb.co/2hLz80J
+node index.js --action="get" --id=5 **https://ibb.co/2hLz80J
 
 # Додаємо контакт
 
